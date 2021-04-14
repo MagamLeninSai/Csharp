@@ -1,0 +1,7 @@
+C:\training\C_Sharp\AdvancedCSharp\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\training\C_Sharp\AdvancedCSharp\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\training\C_Sharp\AdvancedCSharp\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\training\C_Sharp\AdvancedCSharp\ExceptionDemo\obj\Debug\ExceptionDemo.csprojAssemblyReference.cache
+C:\training\C_Sharp\AdvancedCSharp\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\training\C_Sharp\AdvancedCSharp\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\training\C_Sharp\AdvancedCSharp\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

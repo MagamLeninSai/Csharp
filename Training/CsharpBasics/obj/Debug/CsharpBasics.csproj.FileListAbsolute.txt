@@ -1,0 +1,7 @@
+C:\training\C_Sharp\Training\CsharpBasics\bin\Debug\CsharpBasics.exe.config
+C:\training\C_Sharp\Training\CsharpBasics\bin\Debug\CsharpBasics.exe
+C:\training\C_Sharp\Training\CsharpBasics\bin\Debug\CsharpBasics.pdb
+C:\training\C_Sharp\Training\CsharpBasics\obj\Debug\CsharpBasics.csprojAssemblyReference.cache
+C:\training\C_Sharp\Training\CsharpBasics\obj\Debug\CsharpBasics.csproj.CoreCompileInputs.cache
+C:\training\C_Sharp\Training\CsharpBasics\obj\Debug\CsharpBasics.exe
+C:\training\C_Sharp\Training\CsharpBasics\obj\Debug\CsharpBasics.pdb

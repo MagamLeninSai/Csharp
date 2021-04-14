@@ -1,0 +1,130 @@
+﻿Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\training\C_Sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.

@@ -1,0 +1,12 @@
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyAssemblyTest.exe.config
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyAssemblyTest.exe
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyAssemblyTest.pdb
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.csproj.CoreCompileInputs.cache
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.exe
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.pdb
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyClassLibrary.dll
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyClassLibrary.pdb
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.csprojAssemblyReference.cache
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.csproj.CopyComplete
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\bin\Debug\SalaryLib.dll
+C:\training\C_Sharp\MyAssemblyTest\MyAssemblyTest\bin\Debug\SalaryLib.pdb

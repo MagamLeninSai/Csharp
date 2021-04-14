@@ -1,0 +1,10 @@
+C:\training\C_Sharp\Training\OOPSDemo\bin\Debug\OOPSDemo.exe.config
+C:\training\C_Sharp\Training\OOPSDemo\bin\Debug\OOPSDemo.exe
+C:\training\C_Sharp\Training\OOPSDemo\bin\Debug\OOPSDemo.pdb
+C:\training\C_Sharp\Training\OOPSDemo\obj\Debug\OOPSDemo.csprojAssemblyReference.cache
+C:\training\C_Sharp\Training\OOPSDemo\obj\Debug\OOPSDemo.csproj.CoreCompileInputs.cache
+C:\training\C_Sharp\Training\OOPSDemo\obj\Debug\OOPSDemo.exe
+C:\training\C_Sharp\Training\OOPSDemo\obj\Debug\OOPSDemo.pdb
+C:\training\C_Sharp\Training\OOPSDemo\bin\Debug\MyClassLibrary.dll
+C:\training\C_Sharp\Training\OOPSDemo\bin\Debug\MyClassLibrary.pdb
+C:\training\C_Sharp\Training\OOPSDemo\obj\Debug\OOPSDemo.csproj.CopyComplete

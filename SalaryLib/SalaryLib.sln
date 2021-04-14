@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryLib", "SalaryLib\SalaryLib.csproj", "{74AFCFF1-BA7C-4AB8-B573-46145DE2DB9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74AFCFF1-BA7C-4AB8-B573-46145DE2DB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AFCFF1-BA7C-4AB8-B573-46145DE2DB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AFCFF1-BA7C-4AB8-B573-46145DE2DB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AFCFF1-BA7C-4AB8-B573-46145DE2DB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A92B0BA-D2A4-4CB6-80E4-B0716F5BB987}
+	EndGlobalSection
+EndGlobal

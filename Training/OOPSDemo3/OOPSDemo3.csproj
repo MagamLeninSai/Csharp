@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE2FF99F-36AA-48BC-A152-FEFC05CA7143}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>OOPSDemo3</RootNamespace>
+    <AssemblyName>OOPSDemo3</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>OOPSDemo3.DemoNameSpace</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractDemo.cs" />
+    <Compile Include="Customer1.cs" />
+    <Compile Include="Customer2.cs" />
+    <Compile Include="Demo.cs" />
+    <Compile Include="DemoNameSpace.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Employee100.cs" />
+    <Compile Include="Hardware.cs" />
+    <Compile Include="Hardware1.cs" />
+    <Compile Include="IEmployee.cs" />
+    <Compile Include="InterfaceDemo.cs" />
+    <Compile Include="MethodHidingDemo.cs" />
+    <Compile Include="MethodHidingDemo1.cs" />
+    <Compile Include="MultipleInterfaceDemo.cs" />
+    <Compile Include="AbstractDemo1.cs" />
+    <Compile Include="OverLoadDemo.cs" />
+    <Compile Include="OverloadDemo1.cs" />
+    <Compile Include="OverrideDemo.cs" />
+    <Compile Include="OverrideEmployee.cs" />
+    <Compile Include="PartialCustomer.cs" />
+    <Compile Include="PartialDemo.cs" />
+    <Compile Include="PartialEmployee1.cs" />
+    <Compile Include="PartialEmployee2.cs" />
+    <Compile Include="PartialMethodDemo.cs" />
+    <Compile Include="PartialMethodDemo1.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SealedClassDemo.cs" />
+    <Compile Include="SealedDemo.cs" />
+    <Compile Include="SealedMethodDemo.cs" />
+    <Compile Include="TestNameSpace.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

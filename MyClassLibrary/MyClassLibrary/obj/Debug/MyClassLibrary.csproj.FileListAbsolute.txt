@@ -1,0 +1,6 @@
+C:\training\C_Sharp\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\training\C_Sharp\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\training\C_Sharp\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\training\C_Sharp\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\training\C_Sharp\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\training\C_Sharp\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
